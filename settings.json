@@ -8,7 +8,7 @@
   "server": {
     "ip": "TamizhEmpire.aternos.me",
     "port": 33738,
-    "version": "1.21.1",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -74,7 +74,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "https://discord.com/api/webhooks/1519027763472891917/UQmW0lbJdHKiIW669x2yrzjmB4fNzX4Bnw2Ci0WrtGyluvVQGsI-EdZYnyGWsPRu6gNk",
+    "webhookUrl": "",
     "events": {
       "connect": true,
       "disconnect": true,
