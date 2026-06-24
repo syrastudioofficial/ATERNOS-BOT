@@ -8,8 +8,8 @@
   },
 
   "server": {
-    "ip": "boarfish.aternos.host",
-    "port": 3373,
+    "ip": "TamizhEmpire.aternos.me",
+    "port": 33738,
     "version": "1.21.11",
     "try-creative": false
   },
