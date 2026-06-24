@@ -8,17 +8,10 @@
   },
 
   "server": {
-    "ip": "TamizhEmpire.aternos.me",
-    "port": 25565,
+    "ip": "boarfish.aternos.host",
+    "port": 3373,
     "version": "1.21.11",
     "try-creative": false
-  },
-
-  "position": {
-    "enabled": false,
-    "x": 0,
-    "y": 100,
-    "z": 0
   },
 
   "utils": {
@@ -30,15 +23,6 @@
     "anti-afk": {
       "enabled": true,
       "sneak": true
-    },
-
-    "chat-messages": {
-      "enabled": false,
-      "repeat": true,
-      "repeat-delay": 120,
-      "messages": [
-        "I'm a regular player"
-      ]
     },
 
     "chat-log": true,
@@ -66,37 +50,5 @@
       "enabled": true,
       "interval": 15000
     }
-  },
-
-  "modules": {
-    "avoidMobs": true,
-    "combat": false,
-    "beds": false,
-    "chat": true,
-    "console-commands": true
-  },
-
-  "combat": {
-    "attack-mobs": false,
-    "auto-eat": true
-  },
-
-  "beds": {
-    "pick-up-day": false,
-    "place-night": false
-  },
-
-  "discord": {
-    "enabled": false,
-    "webhookUrl": "",
-    "events": {
-      "connect": true,
-      "disconnect": true,
-      "chat": false
-    }
-  },
-
-  "chat": {
-    "respond": false
   }
 }
